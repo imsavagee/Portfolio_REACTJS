@@ -1,0 +1,77 @@
+
+.ProjectOuterDiv {
+    width: 87%;
+    margin: 0 auto;
+}
+
+.projectH1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.flexDiv {
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 1.5rem;
+}
+
+.ProjectImgDiv {
+    margin: 1rem;
+    width: 33vw;
+    height: 45vh;
+    background-size: 101% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    -webkit-transition: 0.5s linear;
+    border-radius: 0.6rem;
+    cursor: pointer;
+   
+}
+
+.ProjectImgDiv:hover{
+    transition: 0.5s;
+    box-shadow: 3px 3px 15px rgb(240, 200, 106);
+    transform: scale(1.1);
+
+}
+.flexInnerDiv {
+    opacity: 0;
+    height: 8rem;
+    color: aliceblue;
+    font-size: small;
+    background-color: rgba(52, 52, 52, 0.9);
+    width: 100%;
+    -webkit-transition:  0.5s linear;
+    border-radius:0 0 0.6rem 0.6rem ;
+}
+
+.ProjectImgDiv:hover .flexInnerDiv {
+    transition: .5s linear;
+    opacity: 1;
+    
+}
+
+.projectH1{
+    text-align: center;
+    margin: 9px auto;
+}
+.ul {
+    list-style-type: none;
+    margin-left: 1rem;
+}
+.projectLi{
+    margin: 5px auto;
+}
+
+@media only screen and (max-width:600px) {
+    .ProjectImgDiv{
+        width: 98vw;
+        height: 28vh;
+    }
+}

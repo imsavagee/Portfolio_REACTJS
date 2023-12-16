@@ -1,0 +1,42 @@
+.skill{
+    margin: 7rem auto;
+}
+
+.h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.flexPara {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    /* margin: 0 auto; */
+
+}
+
+.skillsImg {
+    margin: 1.5rem;
+    width: 15vw;
+    opacity: 0.6;
+    -webkit-transition:  0.3s ease-out;
+
+}
+
+.skillsImg:hover {
+    transition: 0.3s ease-in-out;
+    opacity: 1;
+    filter: drop-shadow(0 0 4px rgb(255, 255, 255));
+}
+
+@media  only screen and (max-width:600px) {
+    .skill{
+        margin: 5rem auto;
+    }
+
+    .skillsImg{
+        opacity: 1;
+        width: 20vw;
+    }
+}

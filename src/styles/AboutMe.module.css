@@ -1,0 +1,29 @@
+.aboutemeDiv {
+    margin-top: 1.5rem;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.span {
+    color: rgb(240, 200, 106);
+
+}
+
+.aboutMepara {
+    margin: 1rem 10rem;
+    color: aliceblue;
+    word-spacing: 3px;
+}
+
+@media only screen and (max-width:600px) {
+    .aboutMepara{
+        margin: 1rem 1.5rem;
+    }
+}

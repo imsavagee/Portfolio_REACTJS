@@ -1,0 +1,19 @@
+.text{
+    color: white;
+    text-align: center;
+    margin: 1rem;
+}
+
+.logo{
+    width: 5vw;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   
+}
+
+.FootImg{
+    width: 4vw;
+    display: inline-block;
+    margin: 0.8rem;
+}

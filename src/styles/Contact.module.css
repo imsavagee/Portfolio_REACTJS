@@ -1,0 +1,54 @@
+.ContactDiv {
+    text-align: center;
+    color: aliceblue;
+    margin: 5rem 0;
+}
+.ContactH1{
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+.ContactP{
+    margin: 1rem 0;
+}
+.input{
+    margin: 1rem;
+    padding: 1rem;
+    border: 0px transparent;
+    border-radius: 1rem;
+    width: 40vw;
+    background-color: rgb(70, 69, 69);
+    color: white;
+}
+.textarea{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 0px transparent;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    width: 40vw;
+
+}
+
+.SubBtn{
+    font-size: medium; 
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    border:  0px transparent;
+    width: 20%;
+    height: 5vh;
+    cursor: pointer;
+    -webkit-transition: 0.5s;
+
+}
+
+.SubBtn:hover{
+    transition: 0.5s;
+    background-color:rgb(255, 186, 58);
+}
+
+.SubBtn:active{
+    width: 10%;
+}

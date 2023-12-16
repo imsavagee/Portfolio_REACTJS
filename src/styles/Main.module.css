@@ -1,0 +1,70 @@
+.mainCont {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    width: 100%;
+    align-items: center;
+}
+
+.left {
+    width: 40%;
+    color: white;
+}
+
+.hello {
+    font-size: large;
+}
+
+.intro {
+    line-height: 4rem;
+    font-size: 2.7rem;
+    font-weight: 600;
+}
+
+.myName {
+    color: rgb(240, 200, 106);
+    -webkit-transition: 0.5s ease-out;
+}
+
+.myName:hover{
+    transition: 0.3s ease-in;
+    filter: drop-shadow(0 0 7px orange);
+}
+
+.description {
+    word-spacing: 3px;
+    padding: .9rem 0;
+    font-weight: 100;
+    font-size: medium;
+
+}
+
+.mainLeftBtn {
+    padding: .7rem 1.5rem;
+    font-weight: 700;
+    border-radius: 2rem;
+    border: none;
+    margin-top: 1rem;
+
+}
+
+.mainLeftBtn:hover {
+    transition: .2s ease-in;
+    background-color: rgb(165, 164, 164);
+}
+
+.right {
+    width: 40%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    overflow:hidden;
+
+}
+
+.selfImg {
+    height: 120vh;
+    position: relative;
+    
+}
+
