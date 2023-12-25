@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/imsavagee/Portfolio_REACTJS/static/css/main.d2e0652e.css",
+    "main.js": "/imsavagee/Portfolio_REACTJS/static/js/main.9d6767eb.js",
+    "static/js/787.d3befce1.chunk.js": "/imsavagee/Portfolio_REACTJS/static/js/787.d3befce1.chunk.js",
+    "static/media/fortune.png": "/imsavagee/Portfolio_REACTJS/static/media/fortune.376fef6ce975b681a6da.png",
+    "static/media/netflix.png": "/imsavagee/Portfolio_REACTJS/static/media/netflix.3c1f5ca1669c5e21f606.png",
+    "static/media/collage.png": "/imsavagee/Portfolio_REACTJS/static/media/collage.24a99d91c6b8841c1de4.png",
+    "static/media/flipkart.png": "/imsavagee/Portfolio_REACTJS/static/media/flipkart.55bf067d2172010bba63.png",
+    "static/media/java.png": "/imsavagee/Portfolio_REACTJS/static/media/java.67bccdb12d879bc8507d.png",
+    "static/media/instaPNG.png": "/imsavagee/Portfolio_REACTJS/static/media/instaPNG.5301d40f6255e04f3dee.png",
+    "static/media/bootsrtap.png": "/imsavagee/Portfolio_REACTJS/static/media/bootsrtap.0c891e3a68eae3641aa3.png",
+    "static/media/ProfesstionalBoy.png": "/imsavagee/Portfolio_REACTJS/static/media/ProfesstionalBoy.70748cc01c2b019dcbf9.png",
+    "static/media/react.png": "/imsavagee/Portfolio_REACTJS/static/media/react.83bf9144d24bb9ba2e66.png",
+    "static/media/mysql.png": "/imsavagee/Portfolio_REACTJS/static/media/mysql.6e859bf46682f42f4ab4.png",
+    "static/media/html.png": "/imsavagee/Portfolio_REACTJS/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/css.png": "/imsavagee/Portfolio_REACTJS/static/media/css.87f545c8e6cfb5682e51.png",
+    "static/media/logo.png": "/imsavagee/Portfolio_REACTJS/static/media/logo.c63332d2cc78d9b89bef.png",
+    "static/media/javascript.png": "/imsavagee/Portfolio_REACTJS/static/media/javascript.932321ca2174dc9b068f.png",
+    "static/media/gitPNG.png": "/imsavagee/Portfolio_REACTJS/static/media/gitPNG.562cd1af0dd60d5da40d.png",
+    "index.html": "/imsavagee/Portfolio_REACTJS/index.html",
+    "main.d2e0652e.css.map": "/imsavagee/Portfolio_REACTJS/static/css/main.d2e0652e.css.map",
+    "main.9d6767eb.js.map": "/imsavagee/Portfolio_REACTJS/static/js/main.9d6767eb.js.map",
+    "787.d3befce1.chunk.js.map": "/imsavagee/Portfolio_REACTJS/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e0652e.css",
+    "static/js/main.9d6767eb.js"
+  ]
+}
